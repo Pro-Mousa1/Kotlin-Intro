@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80b77ff9-ea79-41a4-b9c7-ef69beac2374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/ConditionalExpressionsKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/DatatypeConversionKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/InbuiltFunctionsKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/LoopsKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConditionalExpressions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DatatypeConversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InbuiltFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/META-INF/AfternoonKotlinTwo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AfternoonKotlinTwo/META-INF/AfternoonKotlinTwo.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
